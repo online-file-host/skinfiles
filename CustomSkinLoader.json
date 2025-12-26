@@ -1,0 +1,22 @@
+{
+  "loadlist": [
+    {
+      "name": "GitHubSkins",
+      "type": "Legacy",
+      "checkPNG": false,
+      "skin": "https://online-file-host.github.io/skinfiles/skins/{USERNAME}.png",
+      "model": "auto",
+      "cape": "https://online-file-host.github.io/skinfiles/capes/{USERNAME}.png",
+      "elytra": "https://online-file-host.github.io/skinfiles/elytras/{USERNAME}.png"
+    },
+    {
+      "name": "DefaultSkin",
+      "type": "Legacy",
+      "checkPNG": false,
+      "skin": "https://online-file-host.github.io/skinfiles/skins/default.png",
+      "model": "auto",
+      "cape": "https://online-file-host.github.io/skinfiles/capes/default.png",
+      "elytra": "https://online-file-host.github.io/skinfiles/elytras/default.png"
+    }
+  ]
+}
